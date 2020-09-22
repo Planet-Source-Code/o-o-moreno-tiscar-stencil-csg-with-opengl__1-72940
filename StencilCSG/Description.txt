@@ -1,0 +1,11 @@
+Project Name: StencilCSG
+Project Objective: Doing constructive solid geometry (CSG) with stencil
+Project Category: OpenGL
+
+This source is a port from various sources (included in this file) of several autors:
+	csg.c - by Tom McReynolds
+	opengl32.bas and glu32.bas - by Camilla Berglund
+	wGL.bas	- It is added by me
+
+NOTES:
+ In the begining of this source code, i used the typelibrary vboglZ.tlb but the result was  not the correct. Can check the bad result by refering the typelibrary in  the program and  taking away the modules (opengl32.bas,glu32.bas and wGL.bas)
